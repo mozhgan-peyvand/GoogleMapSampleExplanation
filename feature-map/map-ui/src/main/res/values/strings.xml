@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="open_map">"Open Google Map"</string>
+    <string name="car_detail">"show car detail"</string>
+
+</resources>
